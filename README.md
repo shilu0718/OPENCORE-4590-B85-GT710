@@ -1,2 +1,14 @@
 # OPENCORE-4590-B85-GT710
 HACKINTOCH FOR GIGABYTE B85 4590
+
+## 硬件列表
+
+|项目|名称
+|-|-
+|CPU|Intel i5 4590
+|主板|GIGABYTE B85
+|内存|4x8G DDR4 2400
+|显卡|GT710
+|硬盘|SATA Kingston A400 500G
+|网卡|RTL 8111
+|声卡|ALC 887
